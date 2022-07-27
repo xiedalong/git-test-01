@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fa91d0f1-3c51-4754-9a2a-d71b890eb907" name="Default Changelist" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/git-test-01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/seecen/git/GitTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\ga\git-test-01\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="2CTNNYzaw6qlDUowbSWvelSnyvU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa91d0f1-3c51-4754-9a2a-d71b890eb907" name="Default Changelist" comment="" />
+      <created>1658822574293</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658822574293</updated>
+      <workItem from="1658822579044" duration="2617000" />
+      <workItem from="1658825630402" duration="773000" />
+      <workItem from="1658826419040" duration="540000" />
+      <workItem from="1658885534460" duration="394000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="681" y="11" key="CommitChangelistDialog2" timestamp="1658886037846">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="681" y="11" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1658886037846" />
+    <state x="274" y="59" key="DiffContextDialog" timestamp="1658826503984">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="274" y="59" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1658826503984" />
+    <state x="497" y="313" key="FileChooserDialogImpl" timestamp="1658825383893">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="497" y="313" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1658825383893" />
+    <state x="270" y="78" width="992" height="707" key="SettingsEditor" timestamp="1658823586674">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="78" width="992" height="707" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1658823586674" />
+  </component>
+</project>
